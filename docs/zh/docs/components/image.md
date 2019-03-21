@@ -91,7 +91,7 @@ Android 默认的Image Adapter不支持 gif。
 **返回值**: null
 
 :::warning
-你必须加入`NSPhotoLibraryAddUsageDescription` 和 `NSPhotoLibraryAddUsageDescription` (iOS 11) 以获得访问 iOS 系统相册权限. 参见: [Cocoa Keys](https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CocoaKeys.html)
+你必须加入`NSPhotoLibraryAddUsageDescription` 和 `NSPhotoLibraryUsageDescription` (iOS 11) 以获得访问 iOS 系统相册权限. 参见: [Cocoa Keys](https://developer.apple.com/library/content/documentation/General/Reference/InfoPlistKeyReference/Articles/CocoaKeys.html)
 :::
 
 
